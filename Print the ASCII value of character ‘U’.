@@ -1,0 +1,8 @@
+public class JavaVariablesandDataTypes {
+    public static void main(String[] args) {
+    
+        int ascii = 'U';
+        System.out.println(ascii);
+        
+    }
+}
